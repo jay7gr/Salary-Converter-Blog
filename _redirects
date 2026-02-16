@@ -1,0 +1,2 @@
+/articles/*  https://salary-converter.com/blog/articles/:splat  301
+/*           https://salary-converter.com/blog/:splat           301
