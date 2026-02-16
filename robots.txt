@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://salary-converter.com/blog/sitemap.xml
+Sitemap: https://blog.salary-converter.com/sitemap.xml
